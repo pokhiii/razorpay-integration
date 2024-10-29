@@ -1,0 +1,21 @@
+{
+    "name": "pokhiii/razorpay-integration",
+    "description": "Razorpay integration sample for PHP projects.",
+    "type": "project",
+    "require": {
+        "razorpay/razorpay": "^2.9",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pokhiii\\RazorpayIntegration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pokhiii",
+            "email": "pokhi@coloredcow.com"
+        }
+    ]
+}
